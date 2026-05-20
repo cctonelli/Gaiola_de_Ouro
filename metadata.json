@@ -1,0 +1,6 @@
+{
+  "name": "Gaiola de Ouro - Capa de Livro",
+  "description": "Uma experiência visual imersiva para o livro Gaiola de Ouro, apresentando uma capa dramática e sofisticada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
